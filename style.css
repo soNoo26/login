@@ -7,11 +7,12 @@ body {
 
 .scene{
     position: relative;
-    height: 57.7rem;
-    background: #362100 url(pai.jpg) center/cover;
+    height: 46.1rem;
+    background: #362100 url(tela.jpg) center/cover;
     align-items: center;
     display: flex;
     justify-content: center;
+    margin-right: 16px;
 }
 
 .card{
